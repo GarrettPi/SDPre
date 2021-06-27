@@ -14,5 +14,7 @@ public class Objective5Lab3{
       System.out.println("The number is negative.");
     else
       System.out.println("The number is 0.");
+
+    scanner.close();
   }
 }
