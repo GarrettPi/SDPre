@@ -23,6 +23,7 @@ public class Objective4Lab2{
     dub2 = keyboard.nextDouble();
     System.out.println("Please enter the third decimal number you would like to add.");
     dub3 = keyboard.nextDouble();
+    
     //TODO print the three ints and their sum.
     System.out.println("The sum of "+num1+" + "+num2+" + "+num3+" = "+(num1+num2+num3));
 
