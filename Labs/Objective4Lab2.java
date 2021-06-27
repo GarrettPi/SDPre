@@ -33,18 +33,3 @@ public class Objective4Lab2{
 
   }
 }
-
-// >> Please enter the first whole number you would like to add.
-// >> 1
-// >> Please enter the second whole number you would like to add.
-// >> 7
-// >> Please enter the third whole number you would like to add.
-// >> 5
-// >> Please enter the first decimal number you would like to add.
-// >> 1.1
-// >> Please enter the second decimal number you would like to add.
-// >> 2.2
-// >> Please enter the third decimal number you would like to add.
-// >> 3.3
-// >> The sum of 1 + 7 + 5 = 13
-// >> The sum of 1.1 + 2.2 + 3.3 = 6.6
